@@ -1,0 +1,30 @@
+{
+    "name": "Avoid the Fans! #2",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-tilemaps": "github:microsoft/pxt-tilemaps/"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.8.20",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
